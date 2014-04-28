@@ -1,0 +1,10 @@
+JEQ Changelog
+===================
+
+version 1.0 (September 1, 2005)
+-------------
+Initial version
+
+version 1.01 (September 11, 2005)
+-------------
+Added improvements to equalizer controls
